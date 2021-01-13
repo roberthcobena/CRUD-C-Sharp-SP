@@ -8,3 +8,9 @@ C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\bin\Debug\Capa
 C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\RONETJOHN\Downloads\Practica CRUD SQL c search\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaDatos\obj\Debug\CapaDatos.pdb

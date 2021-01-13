@@ -14,18 +14,18 @@ Stock int
 
 insert into Productos 
 values
-('Gaseosa','3 litros','marcacola',7.5,24),
-('Chocolate','Tableta 100 gramos','iberica',12.5,36)
+('COCACOLA ZERO','3 litros','COCACOLA',7.5,24),
+('PAPAS RUFLES','100 gramos','INALECSA',12.5,36)
 
 ---PROCEDIMIENTOS ALMACENADOS 
 --------------------------MOSTRAR 
-create proc MostrarProductos
+create procedure MostrarProductos
 as
 select *from Productos
 go
 
 --------------------------INSERTAR 
-create proc InsetarProductos
+create procedure InsetarProductos
 @nombre nvarchar (100),
 @descrip nvarchar (100),
 @marca nvarchar (100),
@@ -36,14 +36,14 @@ insert into Productos values (@nombre,@descrip,@marca,@precio,@stock)
 go
 
 ------------------------ELIMINAR
-create proc EliminarProducto
+create procedure EliminarProducto
 @idpro int
 as
 delete from Productos where Id=@idpro
 go
 ------------------EDITAR
 
-create proc EditarProductos
+create procedure EditarProductos
 @nombre nvarchar (100),
 @descrip nvarchar (100),
 @marca nvarchar (100),
@@ -53,3 +53,8 @@ create proc EditarProductos
 as
 update Productos set Nombre=@nombre, Descripcion=@descrip, Marca=@marca, Precio=@precio, Stock=@stock where Id=@id
 go
+
+------------------verificar rutinas creadas
+SELECT ROUTINE_NAME FROM INFORMATION_SCHEMA.ROUTINES
+WHERE ROUTINE_TYPE = 'PROCEDURE'
+ORDER BY ROUTINE_NAME
