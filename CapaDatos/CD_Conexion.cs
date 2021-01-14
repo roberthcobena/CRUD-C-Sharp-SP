@@ -10,8 +10,10 @@ namespace CapaDatos
 {
     public class CD_Conexion
     {
-        private SqlConnection Conexion = new SqlConnection("server=DESKTOP-6VTBIS7;database=Practica; Persist Security Info= False; User ID=sa;Password=root");
-
+        //cadena de conexión
+        private SqlConnection Conexion = new SqlConnection("Server=localhost;Database=Practica;Trusted_Connection=True;");
+       
+        //abrir conexión
         public SqlConnection AbrirConexion()
         {
             if (Conexion.State == ConnectionState.Closed)
@@ -19,6 +21,7 @@ namespace CapaDatos
             return Conexion;
         }
 
+        //cierre de conexión
         public SqlConnection CerrarConexion()
         {
             if (Conexion.State == ConnectionState.Open)

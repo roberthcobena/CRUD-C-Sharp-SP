@@ -13,6 +13,7 @@ namespace CapaNegocio
     {
         private CD_Productos objetoCD = new CD_Productos();
 
+        //Métodos del Crud (Parametrizado)
         public DataTable MostrarProd() {
 
             DataTable tabla = new DataTable();

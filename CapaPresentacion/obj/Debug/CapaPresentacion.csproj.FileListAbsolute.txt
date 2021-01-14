@@ -39,3 +39,18 @@ C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPre
 C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\tonny\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Roberth Cobeña\source\repos\CRUD-C-Sharp-SQL-Server-POO-Capas-Nivel-Base\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

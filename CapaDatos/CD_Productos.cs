@@ -11,13 +11,14 @@ namespace CapaDatos
     public class CD_Productos
     {
         private CD_Conexion conexion = new CD_Conexion();
-
+        
+        //Métodos del Crud (Llamada a SP)
         SqlDataReader leer;
         DataTable tabla = new DataTable();
         SqlCommand comando = new SqlCommand();
 
         public DataTable Mostrar() { 
-       
+            //Lectura
             comando.Connection = conexion.AbrirConexion();
             comando.CommandText = "MostrarProductos";
             comando.CommandType = CommandType.StoredProcedure;
@@ -29,7 +30,7 @@ namespace CapaDatos
         }
 
         public void Insertar(string nombre,string desc,string marca,double precio, int stock ) {
-            //PROCEDIMNIENTO
+            //PROCEDIMIENTO de registro
             
             comando.Connection = conexion.AbrirConexion();
             comando.CommandText = "InsetarProductos";
@@ -48,7 +49,7 @@ namespace CapaDatos
 
         public void Editar(string nombre, string desc, string marca, double precio, int stock,int id)
         {
-            
+            //PROCEDIMIENTO de edición
             comando.Connection = conexion.AbrirConexion();
             comando.CommandText = "EditarProductos";
             comando.CommandType = CommandType.StoredProcedure;
@@ -65,6 +66,7 @@ namespace CapaDatos
         }
 
         public void Eliminar(int id) {
+            //PROCEDIMIENTO de eliminación
             comando.Connection = conexion.AbrirConexion();
             comando.CommandText = "EliminarProducto";
             comando.CommandType = CommandType.StoredProcedure;

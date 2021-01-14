@@ -7,10 +7,8 @@ using System.Windows.Forms;
 namespace CapaPresentacion
 {
     static class Program
-    {
-        /// <summary>
-        /// Punto de entrada principal para la aplicación.
-        /// </summary>
+    {     
+        /// Carga e inicio de procesos
         [STAThread]
         static void Main()
         {
